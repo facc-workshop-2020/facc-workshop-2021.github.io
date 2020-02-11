@@ -3,7 +3,10 @@ layout: page
 title: Formal Approaches to Certifying Compliance (FACC)
 ---
 
-A proposed workshop on applying formal methods tools and techniques to certification and compliance problems. 
+A workshop on applying formal methods tools and techniques to certification and compliance problems. 
+
+FACC will take place at [CAV 2020](http://i-cav.org/2020/) in Los Angeles on July 19th 2020
+
 
 ### Organizers
 
@@ -12,7 +15,7 @@ A proposed workshop on applying formal methods tools and techniques to certifica
 
 Please direct inquiries to [Mike Dodds](mailto:miked@galois.com). 
 
-### Workshop purpose 
+### Topic 
 
 Regulatory compliance is a requirement for many types of software systems. For example, cryptographic systems may be subject to FIPS 140-2 certifications, medical data systems must be HIPAA compliant, financial systems are checked against PCI before deployment, and cloud services used by the US government must achieve FedRAMP designation. Even after software is built and certified, changes to the software, no matter how minor, must often be recertified to ensure that they do not break previously-held assumptions.
 
@@ -28,12 +31,3 @@ Topics of interest:
 * Automatically invalidating and regenerating evidence
 * Monitoring system boundaries
 * Generating reports suitable for human and machine certifiers
-
-### Location 
-
-We intend FACC to take place at [CAV 2020](http://i-cav.org/2020/). 
-
-<a name="call"></a>
-### Call for Papers
-
-Forthcoming in January 2020. 
