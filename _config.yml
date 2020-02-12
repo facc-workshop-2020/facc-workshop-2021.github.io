@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Formal Approaches to Certification and Compliance
+title: Formal Approaches to Certifying Compliance
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   A CAV workshop on applying formal methods to certification and compliance.   
