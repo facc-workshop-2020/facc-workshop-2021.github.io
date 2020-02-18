@@ -33,3 +33,7 @@ Topics of interest:
 * Automatically invalidating and regenerating evidence
 * Monitoring system boundaries
 * Generating reports suitable for human and machine certifiers
+
+### Speakers
+
+TBA 
