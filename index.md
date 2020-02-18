@@ -21,7 +21,9 @@ Regulatory compliance is a requirement for many types of software systems. For e
 
 Unfortunately, current approaches to compliance can be slow-moving and expensive. This pace directly clashes with modern software development, which is characterized by rapid change and enormous scale. For many organizations compliance imposes unacceptable cost and delay when shipping industry-strength software. In addition, compliance can perversely result in less reliable software, as bug fixes are delayed by certification processes. 
 
-Formal methods may offer solutions to this problem. This workshop will explore two hypotheses: formal methods can automate compliance processes / requirements, and compliance can be a killer application for formal methods. We seek formal methods tools, solutions, capabilities, or techniques that can be inserted into certification processes to make them cheaper, faster, and more rigorous. 
+Formal methods may offer solutions to this problem. We seek formal methods tools, solutions, capabilities, or techniques that can be inserted into certification processes to make them cheaper, faster, and more rigorous. 
+
+The FACC workshop will explore how formal methods tools and techniques can increase automation in compliance processes, and thereby help build software more cheaply and reliably. Our aim is to bring together industry, government, and academic experts to share ideas, scope problems, and develop future collaborations.
 
 Topics of interest: 
 
