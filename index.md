@@ -34,6 +34,10 @@ Topics of interest:
 * Monitoring system boundaries
 * Generating reports suitable for human and machine certifiers
 
-### Speakers
+### Confirmed Speakers
 
-TBA 
+* Neha Rungta - Amazon Web Services
+* Ray Richards - DARPA 
+* Lucas Wagner - Collins Aerospace
+* Sazzadur Rahaman - Virginia Tech
+* Stephen Magill - MuseDev 
