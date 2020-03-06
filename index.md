@@ -8,7 +8,7 @@ A workshop on applying formal methods tools and techniques to certification and 
 FACC will take place at [CAV 2020](http://i-cav.org/2020/) in Los Angeles, on July 19th 2020. 
 
 
-### Organizers
+### Co-chairs
 
 * [Mike Dodds](https://galois.com/team/mike-dodds/) (Galois, Inc)
 * [Byron Cook](http://www0.cs.ucl.ac.uk/staff/b.cook/) (Amazon Web Services, University College London)
