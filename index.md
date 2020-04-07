@@ -5,7 +5,7 @@ title: Formal Approaches to Certifying Compliance (FACC)
 
 A workshop on applying formal methods tools and techniques to certification and compliance problems. 
 
-FACC will take place at [CAV 2020](http://i-cav.org/2020/) in Los Angeles, on July 19th 2020. 
+FACC will be a virtual workshop affiliated to at [CAV 2020](http://i-cav.org/2020/). It will take place on July 19th 2020. 
 
 
 ### Co-chairs
@@ -41,3 +41,4 @@ Topics of interest:
 * Lucas Wagner - Collins Aerospace
 * Sazzadur Rahaman - Virginia Tech
 * Stephen Magill - MuseDev 
+* Andrew Williams - Coalfire 
