@@ -5,7 +5,7 @@ title: Formal Approaches to Certifying Compliance (FACC)
 
 A workshop on applying formal methods tools and techniques to certification and compliance problems. 
 
-FACC will be affiliated to [CAV 2020](http://i-cav.org/2020/). It will take place on July 19th 2020. 
+FACC will be affiliated to CAV 2021. 
 
 
 ### Co-chairs
@@ -33,12 +33,3 @@ Topics of interest:
 * Automatically invalidating and regenerating evidence
 * Monitoring system boundaries
 * Generating reports suitable for human and machine certifiers
-
-### Confirmed Speakers
-
-* Neha Rungta - Amazon Web Services
-* Ray Richards - DARPA 
-* Lucas Wagner - Collins Aerospace
-* Sazzadur Rahaman - Virginia Tech
-* Stephen Magill - MuseDev 
-* Andrew Williams - Coalfire 
