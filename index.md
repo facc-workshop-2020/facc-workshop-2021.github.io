@@ -17,7 +17,7 @@ Please direct inquiries to [Mike Dodds](mailto:miked@galois.com).
 
 ### Topic 
 
-Regulatory compliance is a requirement for many types of software systems. For example, cryptographic systems may be subject to FIPS 140-2 certifications, medical data systems must be HIPAA compliant, safety critical systems must adhere to standards such as ISO 26262, and cloud services used by the US government must achieve FedRAMP designation. Even after software is built and certified, changes to the software, no matter how minor, must often be recertified to ensure that they do not break previously-held assumptions.
+Regulatory compliance is a requirement for many types of software systems. For example, cryptographic systems may be subject to FIPS certifications, medical data systems must be HIPAA compliant, safety critical systems must adhere to standards such as ISO 26262 and DO-178C, and cloud services used by the US government must achieve FedRAMP designation. Even after software is built and certified, changes to the software, no matter how minor, must often be recertified to ensure that they do not break previously-held assumptions.
 
 Unfortunately, current approaches to compliance can be slow-moving and expensive. This pace directly clashes with modern software development, which is characterized by rapid change and enormous scale. For many organizations compliance imposes unacceptable cost and delay when shipping industry-strength software. In addition, compliance can perversely result in less reliable software, as bug fixes are delayed by certification processes. 
 
@@ -27,9 +27,15 @@ The FACC workshop will explore how formal methods tools and techniques can incre
 
 Topics of interest: 
 
-* Case studies for certification and compliance 
-* Generating auditable proofs
+* Test synthesis
+* Formal verification techniques
+* Enforcement of security controls
 * Detecting and analyzing changes
 * Automatically invalidating and regenerating evidence
-* Monitoring system boundaries
-* Generating reports suitable for human and machine certifiers
+* Case studies and experience reports
+
+### Workshop details
+
+FACC will take place 8am - 2pm Pacific time on July 19th.
+
+FACC will be affiliated to the CAV conference and registration will take place through CAV’s system: [http://i-cav.org/2021/](http://i-cav.org/2021/)
