@@ -32,7 +32,7 @@ Topics of interest:
 
 We invite proposals of talks to take place at FACC. Talks will be 20 minutes long with 5-10 minutes following for questions and discussion. We encourage talks that take a broad and forward-looking perspective, as well as talks with deep technical content. 
 
-Proposals should consist of an abstract of 200 words or less explaining the topic of the proposed talk , and an author biography of 100 words or less. 
+Proposals should consist of an abstract of 200 words or less explaining the topic of the proposed talk, and an author biography of 100 words or less. 
 
 Proposals should be emailed to [Mike Dodds](mailto:miked@galois.com) with the subject heading “FACC talk proposal”. 
 
