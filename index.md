@@ -3,17 +3,10 @@ layout: page
 title: Formal Approaches to Certifying Compliance (FACC)
 ---
 
-A workshop on applying formal methods tools and techniques to certification and compliance problems. 
+An online workshop on applying formal methods tools and techniques to certification and compliance problems. 
 
-FACC will be affiliated to CAV 2021. 
+FACC taking place 8am - 2pm Pacific time on July 19th. FACC will be affiliated to the CAV conference and registration will take place through CAV’s system: [http://i-cav.org/2021/](http://i-cav.org/2021/)
 
-
-### Co-chairs
-
-* [Mike Dodds](https://galois.com/team/mike-dodds/) (Galois, Inc)
-* [Byron Cook](http://www0.cs.ucl.ac.uk/staff/b.cook/) (Amazon Web Services, University College London)
-
-Please direct inquiries to [Mike Dodds](mailto:miked@galois.com). 
 
 ### Topic 
 
@@ -34,8 +27,22 @@ Topics of interest:
 * Automatically invalidating and regenerating evidence
 * Case studies and experience reports
 
-### Workshop details
+### Call for talks 
 
-FACC will take place 8am - 2pm Pacific time on July 19th.
+We invite proposals of talks to take place at FACC. Talks will be 20 minutes long with 5-10 minutes following for questions and discussion. We encourage talks that take a broad and forward-looking perspective, as well as talks with deep technical content. 
 
-FACC will be affiliated to the CAV conference and registration will take place through CAV’s system: [http://i-cav.org/2021/](http://i-cav.org/2021/)
+Proposals should consist of an abstract of 200 words or less explaining the topic of the proposed talk , and an author biography of 100 words or less. 
+
+Proposals should be emailed to [Mike Dodds](mailto:miked@galois.com) with the subject heading “FACC talk proposal”. 
+
+Important dates: 
+* Deadline for talk proposals: 11th June 2021
+* Notification: 18th June 2021 
+
+
+### Co-chairs
+
+* [Mike Dodds](https://galois.com/team/mike-dodds/) (Galois, Inc)
+* [Byron Cook](http://www0.cs.ucl.ac.uk/staff/b.cook/) (Amazon Web Services, University College London)
+
+Please direct all inquiries to [Mike Dodds](mailto:miked@galois.com). 
