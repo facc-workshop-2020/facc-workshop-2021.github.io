@@ -7,7 +7,23 @@ An online workshop on applying formal methods tools and techniques to certificat
 
 FACC will take place 8am-2pm Pacific time on July 19th. FACC will be affiliated to the CAV conference and registration will take place through CAV’s system: [http://i-cav.org/2021/](http://i-cav.org/2021/)
 
-We invite talk proposals for FACC (see below).
+### Talk schedule
+
+| Time    | Title.                                    | Speaker | 
+| ---     | ---                                       | --- |
+| 8.00  | Byron Cook / Mike Dodds                   | *Opening Remarks* | 
+| 8.15  | Apostol Vassilev (NIST)                   | *Title pending* | 
+| 8.45  | Dan Stocker (Coalfire)                    | *Title pending* | 
+| 9.15  | Richard Paige (McMasters University)      | *Process-Based Assurance of Critical Software-Intensive Systems using WF+* | 
+| 9.45  |                                           | **Break, 30 mins** | 
+| 10.15 | Ray Richards (DARPA)                      | *Rethinking the evaluation of software for certification* | 
+| 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| *Better SMT proofs for certifying compliance* | 
+| 11.15 | Sazzadur Rahaman (University of Arizona)  | *The PCI DSS certification process for e-commerce websites* | 
+| 11.45 |                                           | **Break, 30 mins** | 
+| 12.15 | Karthik Amrutesh (Amazon Web Services)    | *Title pending* | 
+| 12.45 | Lucas Wagner (Collins Aerospace)          | *Automating Avionics Certification Activities using Formal Methods* | 
+| 13.15 | Cesare Tinelli (University of Iowa)       | *Practical Generation of Proof Certificates for SMT-based Model Checkers* | 
+| 13.45 | Byron Cook / Mike Dodds                   | *Closing Remarks* | 
 
 ### Topic 
 
@@ -27,19 +43,6 @@ Topics of interest:
 * Detecting and analyzing changes
 * Automatically invalidating and regenerating evidence
 * Case studies and experience reports
-
-### Call for talks 
-
-We invite proposals of talks to take place at FACC. Talks will be 20 minutes long with 5-10 minutes following for questions and discussion. We encourage talks that take a broad and forward-looking perspective, as well as talks with deep technical content. 
-
-Proposals should consist of an abstract of 200 words or less explaining the topic of the proposed talk, and an author biography of 100 words or less. 
-
-Proposals should be emailed to [Mike Dodds](mailto:miked@galois.com) with the subject heading “FACC talk proposal”. 
-
-Important dates: 
-* Deadline for talk proposals: 11th June 2021
-* Notification: 18th June 2021 
-
 
 ### Co-chairs
 
