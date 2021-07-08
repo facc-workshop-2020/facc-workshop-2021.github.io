@@ -5,7 +5,11 @@ title: Formal Approaches to Certifying Compliance (FACC)
 
 An online workshop on applying formal methods tools and techniques to certification and compliance problems. 
 
-FACC will take place 8am-2pm Pacific time on July 19th. FACC will be affiliated to the CAV conference. Please register through CAV’s system: [http://i-cav.org/2021/](http://i-cav.org/2021/). 
+FACC will take place 8am-2pm Pacific time on July 19th. FACC will be affiliated to the CAV conference. 
+
+### Registration 
+
+Please register through CAV’s system: [http://i-cav.org/2021/attending/](http://i-cav.org/2021/attending/). To attend FACC, it is only necessary to register as a 'Workshop/Tut. Attendee'. This will be $75 on or before July 9th, and $125 afterwards. 
 
 ### Talk schedule
 
