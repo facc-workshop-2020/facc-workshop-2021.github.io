@@ -22,7 +22,7 @@ Please register through CAV’s system: [http://i-cav.org/2021/attending/](http:
 | 9.45  |                                           | **Break, 30 mins** | 
 | 10.15 | Ray Richards (DARPA)                      | *Rethinking the evaluation of software for certification* | 
 | 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| *Better SMT proofs for certifying compliance* | 
-| 11.15 | Sazzadur Rahaman (University of Arizona)  | *The PCI DSS certification process for e-commerce websites* | 
+| 11.15 | Sazzadur Rahaman (University of Arizona)  | *Compliance Disparity Triangle: Impediments for effective compliance certification* | 
 | 11.45 |                                           | **Break, 30 mins** | 
 | 12.15 | Karthik Amrutesh (Amazon Web Services)    | *TBC* | 
 | 12.45 | Lucas Wagner (Collins Aerospace)          | *Automating Avionics Certification Activities using Formal Methods* | 
