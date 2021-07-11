@@ -22,11 +22,11 @@ Please register through CAV’s system: [http://i-cav.org/2021/attending/](http:
 | 9.45  |                                           | **Break, 30 mins** | 
 | 10.15 | Ray Richards (DARPA)                      | [Rethinking the evaluation of software for certification](#ray-richards-darpa) | 
 | 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| [Better SMT proofs for certifying compliance](haniel-barbosa-u-federal-de-minas-gerais) | 
-| 11.15 | Sazzadur Rahaman (University of Arizona)  | Compliance Disparity Triangle: Impediments for effective compliance certification | 
+| 11.15 | Sazzadur Rahaman (University of Arizona)  | [Compliance Disparity Triangle: Impediments for effective compliance certification](#sazzadur-rahaman-university-of-arizona) | 
 | 11.45 |                                           | **Break, 30 mins** | 
 | 12.15 | Karthik Amrutesh (Amazon Web Services)    | *TBC* | 
-| 12.45 | Lucas Wagner (Collins Aerospace)          | Automating Avionics Certification Activities using Formal Methods | 
-| 13.15 | Cesare Tinelli (University of Iowa)       | Practical Generation of Proof Certificates for SMT-based Model Checkers | 
+| 12.45 | Lucas Wagner (Collins Aerospace)          | [Automating Avionics Certification Activities using Formal Methods](#lucas-wagner-collins-aerospace) | 
+| 13.15 | Cesare Tinelli (University of Iowa)       | [Practical Generation of Proof Certificates for SMT-based Model Checkers](#cesare-tinelli-university-of-iowa) | 
 | 13.45 | Byron Cook / Mike Dodds                   | Closing Remarks | 
 
 
@@ -62,7 +62,7 @@ Please direct all inquiries to [Mike Dodds](mailto:miked@galois.com).
 
 *Title:* Cybersecurity Assurance or Insurance? Can Formal Methods make the case for cryptographic assurances?
 
-*Summary:* Cryptography is fundamental for achieving the cybersecurity objectives every person or organization strives for. Cryptography is by far the dominant means for protecting data in transit or at rest. However, cryptography is not immune from exploits due to defects in the implementation of the algorithms and/or the environment in which they execute. When the fundament is shaky and the security assurances promised by cryptography are elusive, what is the public left to do? Buy insurance? Sure, cybersecurity insurance is on the rise, but it is not a panacea. Fortunately, formal methods can tilt the balance of the dilemma between assurance and insurance in favor of the former. Formal methods are the key to eliminating the problems that have plagued cryptographic implementations over time and over a plethora of embodiments: software, hardware, hybrid, etc. In this talk we will look into the potential formal methods have to solve this problem as well as the possibilities they offer for rethinking the traditional methodologies for validating and certifying crypto implementations.
+*Abstract:* Cryptography is fundamental for achieving the cybersecurity objectives every person or organization strives for. Cryptography is by far the dominant means for protecting data in transit or at rest. However, cryptography is not immune from exploits due to defects in the implementation of the algorithms and/or the environment in which they execute. When the fundament is shaky and the security assurances promised by cryptography are elusive, what is the public left to do? Buy insurance? Sure, cybersecurity insurance is on the rise, but it is not a panacea. Fortunately, formal methods can tilt the balance of the dilemma between assurance and insurance in favor of the former. Formal methods are the key to eliminating the problems that have plagued cryptographic implementations over time and over a plethora of embodiments: software, hardware, hybrid, etc. In this talk we will look into the potential formal methods have to solve this problem as well as the possibilities they offer for rethinking the traditional methodologies for validating and certifying crypto implementations.
 
 ### Richard Paige (McMasters University)
 
@@ -105,3 +105,22 @@ Isabelle/HOL, Lean4, and Coq, while also creating proof calculi for
 previously unsupported SMT-LIB theories in these settings. While the
 project is still ongoing, we will report on significant progress on
 all of these fronts.
+
+### Sazzadur Rahaman (University of Arizona)
+
+*Title:* Compliance Disparity Triangle: Impediments for effective compliance certification
+
+*Abstract:* In this talk, I will share my experience in studying the PCI DSS certification process for e-commerce websites. I will also discuss the challenges towards enforcing large-scale, industry-wide compliance checking and certification process in the light of PCI DSS. We were the first to systematically measure the security and compliance of the PCI DSS certification process for e-commerce websites. We developed an e-commerce web application testbed, named BuggyCart, with 35 PCI DSS-related vulnerabilities. We used BuggyCart to examine the capability and limitations of PCI scanners and the rigor of the certification process. Our testbed experiments revealed that the vulnerability screening capabilities of some approved scanning vendors (ASV) are inadequate. 5 of the 6 PCI scanners are not compliant with the ASV scanning guidelines. We also built a lightweight PCI scanner named PciCheckerLite, to measure the compliance status of existing e-commerce services. Our measurement on 1,203 e-commerce websites shows that 86% of the websites have at least one type of vulnerability that should disqualify them as non-compliant. We shared our research outcome with the PCI council to help to improve the existing certification process. This work was selected as the finalist of the CSAW'20 Applied Research Competition in 2020.
+
+### Lucas Wagner (Collins Aerospace)
+
+*Title:* Automating Avionics Certification Activities using Formal Methods
+
+*Abstract:* Lucas Wagner is a Principal Research Scientist at Collins Aerospace. He focuses on industrial application of formal methods. Currently, he is leading an initiative to broaden the rollout of SMT-based automatic test generation technology within Collins. This talk will focus on activities within Collins to utilize automated formal reasoning tools to produce certification artifacts. It will describe current efforts, lessons learned and the anticipated need for formal methods tooling in the future.
+
+### Cesare Tinelli (University of Iowa) 
+
+*Title:* Practical Generation of Proof Certificates for SMT-based Model Checkers
+
+*Abstract:* Sophisticated automated analysis tools such as abstract interpreters, model checkers, and other automated verifiers are now included in the production tool chain of safety-critical systems. To be usable in software development processes sanctioned by certifying authorities these tools need to go through a laborious and expensive "qualification" process. One way to reduce the qualification burden is to use analyzers that produce formal certificates as evidence of the correctness of their analysis. This way the qualification requirements can be shifted from highly complex analyzers to much simpler certificate checkers.
+We present a twofold technique for generating and verifying analysis certificates in SMT-based model checkers. Certificates are extracted as inductive invariants and reduced to formal proof terms with the help of a proof-producing SMT solver. These certificates are expressed in terms of the internal representation of the input problem by the model checker. The correctness of translation to this representation is addressed separately in a lightweight manner by proving the observational equivalence between the results of two independent translations. The equivalence proof is done by the model checker itself and generates its own proof certificate. Our experimental evaluation shows that, at the price of minimal instrumentation in the model checker, our approach enables an efficient generation and verification of certificates for non-trivial transition systems and properties.
