@@ -20,8 +20,8 @@ Please register through CAV’s system: [http://i-cav.org/2021/attending/](http:
 | 8.45  | Dan Stocker (Coalfire)                    | *TBC* | 
 | 9.15  | Richard Paige (McMasters University)      | [Process-Based Assurance of Critical Software-Intensive Systems using WF+](#richard-paige-mcmasters-university) | 
 | 9.45  |                                           | **Break, 30 mins** | 
-| 10.15 | Ray Richards (DARPA)                      | Rethinking the evaluation of software for certification | 
-| 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| Better SMT proofs for certifying compliance | 
+| 10.15 | Ray Richards (DARPA)                      | [Rethinking the evaluation of software for certification](#ray-richards-darpa) | 
+| 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| [Better SMT proofs for certifying compliance](haniel-barbosa-u-federal-de-minas-gerais) | 
 | 11.15 | Sazzadur Rahaman (University of Arizona)  | Compliance Disparity Triangle: Impediments for effective compliance certification | 
 | 11.45 |                                           | **Break, 30 mins** | 
 | 12.15 | Karthik Amrutesh (Amazon Web Services)    | *TBC* | 
@@ -69,3 +69,39 @@ Please direct all inquiries to [Mike Dodds](mailto:miked@galois.com).
 *Title:* Process-Based Assurance of Critical Software-Intensive Systems using WF+
 
 *Abstract:* Assurance for critical software-intensive systems, such as autonomous vehicles or sophisticated medical devices, is of utmost importance, but is often difficult and expensive. Many existing assurance approaches focus on construction of arguments derived from evidence (e.g., data from safety analysis and testing), presented using notations such as GSN. We instead present a model- based approach, WF+, to safety assurance development that is based on modeling processes (e.g., safety processes), data and constraints as three distinct but interrelated workflows. A WF+ model is thus a representation of an argument over integral data and process flows. We present an example illustrating how WF+ works, and how its tools can be used to model parts of safety standards such as ISO 26262. We discuss the benefits of WF+ compared to traditional assurance case notations like GSN. We present ongoing work on the WF+ toolchain as well as its integration with other tools, including spreadsheets (for requirements specification) and Simulink (for analysis data and control flow).
+
+### Ray Richards (DARPA)
+
+*Title:* Rethinking the evaluation of software for certification
+
+*Abstract:* The evaluation of software to determine its fitness for use has changed little over the decades. Evaluations can be superficial checking compliance for policies that are designed to be one-size-fits-all, or heavily focused on indirect measures of the software’s desired qualities. The DARPA Automated Rapid Certification of Software (ARCOS) program is reimagining the evaluation of software. ARCOS is applying data analytics techniques and automated reasoning to make inferences from what is known about software. Assurance case arguments, supported by evidence, are generated to support the software worthiness for use. This talk will discuss some of the motivation and challenges for the ARCOS program and sample some of the emerging technologies.
+
+### Haniel Barbosa (U Federal de Minas Gerais)
+
+*Title:* Better SMT proofs for certifying compliance
+
+*Abstract:* 
+SMT solvers can be hard to trust, since it generally means assuming
+their large and complex codebases do not contain bugs that lead to
+wrong results. Machine-checkable certificates, via proofs of the
+logical reasoning the solver has performed, address this issue by
+decoupling confidence in the results from the solver's implementation.
+
+Despite previous work, in several SMT solvers, to produce and check
+proofs, users still have to choose among solvers that may not produce
+fine-grained proofs, may not produce proofs for some of their
+crucial-for-efficiency components, or have proofs that are checkable
+only as part of a specific proof assistant.
+
+To facilitate the use of SMT proof certificates, the cvc5 developers
+team has completely redesigned its proof-production infrastructure,
+aiming for a sufficiently general and extensible infrastructure to
+allow: the generation of coarse- and fine-grained proofs for all parts
+of the solver, particularly for previously unsupported components such
+as the rewriter and the strings subsolver; and the printing of proofs
+in different formats to enable the use of different proof checkers.
+Specifically, we are working on producing cvc5 proofs for LFSC,
+Isabelle/HOL, Lean4, and Coq, while also creating proof calculi for
+previously unsupported SMT-LIB theories in these settings. While the
+project is still ongoing, we will report on significant progress on
+all of these fronts.
