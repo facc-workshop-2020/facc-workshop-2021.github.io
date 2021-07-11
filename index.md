@@ -17,7 +17,7 @@ Please register through CAV’s system: [http://i-cav.org/2021/attending/](http:
 | ---   | ---                                       | --- |
 | 8.00  | Byron Cook / Mike Dodds                   | Opening Remarks | 
 | 8.15  | Apostol Vassilev (NIST)                   | [Cybersecurity Assurance or Insurance? Can Formal Methods make the case for cryptographic assurances?](#apostol-vassilev-nist) | 
-| 8.45  | Dan Stocker (Coalfire)                    | *TBC* | 
+| 8.45  | Dan Stocker (Coalfire)                    | [Early Experience with Evidence from Formal Methods: An Auditor Perspective](#dan-stocker-coalfire) | 
 | 9.15  | Richard Paige (McMasters University)      | [Process-Based Assurance of Critical Software-Intensive Systems using WF+](#richard-paige-mcmasters-university) | 
 | 9.45  |                                           | **Break, 30 mins** | 
 | 10.15 | Ray Richards (DARPA)                      | [Rethinking the evaluation of software for certification](#ray-richards-darpa) | 
@@ -63,6 +63,13 @@ Please direct all inquiries to [Mike Dodds](mailto:miked@galois.com).
 *Title:* Cybersecurity Assurance or Insurance? Can Formal Methods make the case for cryptographic assurances?
 
 *Abstract:* Cryptography is fundamental for achieving the cybersecurity objectives every person or organization strives for. Cryptography is by far the dominant means for protecting data in transit or at rest. However, cryptography is not immune from exploits due to defects in the implementation of the algorithms and/or the environment in which they execute. When the fundament is shaky and the security assurances promised by cryptography are elusive, what is the public left to do? Buy insurance? Sure, cybersecurity insurance is on the rise, but it is not a panacea. Fortunately, formal methods can tilt the balance of the dilemma between assurance and insurance in favor of the former. Formal methods are the key to eliminating the problems that have plagued cryptographic implementations over time and over a plethora of embodiments: software, hardware, hybrid, etc. In this talk we will look into the potential formal methods have to solve this problem as well as the possibilities they offer for rethinking the traditional methodologies for validating and certifying crypto implementations.
+
+### Dan Stocker (Coalfire)
+
+*Title:* Early Experience with Evidence from Formal Methods: An Auditor Perspective
+
+*Abstract:* Use of formal methods to support audits requires a greater degree of collaboration between auditor and auditee. Our experience has identified key areas where the usual conventions of audit must evolve to support use of evidence adduced from formal methods. Characterizing and categorizing these will help organizations plan for these challenges.
+
 
 ### Richard Paige (McMasters University)
 
