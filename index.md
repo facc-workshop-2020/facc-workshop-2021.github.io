@@ -5,7 +5,7 @@ title: Formal Approaches to Certifying Compliance (FACC)
 
 An online workshop on applying formal methods tools and techniques to certification and compliance problems. 
 
-FACC will take place 8am-2pm Pacific time on July 19th. FACC will be affiliated to the CAV conference. 
+FACC will take place 8am-2pm Pacific time on July 19th. FACC will be affiliated to [Computer Aided Verification (CAV) 2021](http://i-cav.org/2021/). 
 
 ### Registration 
 
