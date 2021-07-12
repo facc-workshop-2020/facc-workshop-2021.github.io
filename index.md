@@ -13,6 +13,8 @@ Please register through CAV’s system: [http://i-cav.org/2021/attending/](http:
 
 ### Talk schedule
 
+All times are [PDT](https://www.timeanddate.com/time/zones/pdt). 
+
 | Time  | Title.                                    | Speaker | 
 | ---   | ---                                       | --- |
 | 8.00  | Byron Cook / Mike Dodds                   | Opening Remarks | 
