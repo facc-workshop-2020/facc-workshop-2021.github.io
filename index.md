@@ -20,7 +20,7 @@ All times are [PDT](https://www.timeanddate.com/time/zones/pdt).
 | 8.00  | Byron Cook / Mike Dodds                   | Opening Remarks | 
 | 8.15  | Apostol Vassilev (NIST)                   | [Cybersecurity Assurance or Insurance? Can Formal Methods make the case for cryptographic assurances?](#apostol-vassilev-nist) | 
 | 8.45  | Dan Stocker (Coalfire)                    | [Early Experience with Evidence from Formal Methods: An Auditor Perspective](#dan-stocker-coalfire) | 
-| 9.15  | Richard Paige (McMasters University)      | [Process-Based Assurance of Critical Software-Intensive Systems using WF+](#richard-paige-mcmasters-university) | 
+| 9.15  | Richard Paige (McMaster University)      | [Process-Based Assurance of Critical Software-Intensive Systems using WF+](#richard-paige-mcmasters-university) | 
 | 9.45  |                                           | **Break, 30 mins** | 
 | 10.15 | Ray Richards (DARPA)                      | [Rethinking the evaluation of software for certification](#ray-richards-darpa) | 
 | 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| [Better SMT proofs for certifying compliance](haniel-barbosa-u-federal-de-minas-gerais) | 
