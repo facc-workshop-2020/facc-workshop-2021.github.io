@@ -26,7 +26,7 @@ All times are [PDT](https://www.timeanddate.com/time/zones/pdt).
 | 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| [Better SMT proofs for certifying compliance](haniel-barbosa-u-federal-de-minas-gerais) | 
 | 11.15 | Sazzadur Rahaman (University of Arizona)  | [Compliance Disparity Triangle: Impediments for effective compliance certification](#sazzadur-rahaman-university-of-arizona) | 
 | 11.45 |                                           | **Break, 30 mins** | 
-| 12.15 | Karthik Amrutesh (Amazon Web Services)    | *TBC* | 
+| 12.15 | Karthik Amrutesh (Amazon Web Services), in conversation with Byron Cook | [How I learned to stop worrying and start applying automated reasoning](#karthik-amrutesh-amazon-web-services) | 
 | 12.45 | Lucas Wagner (Collins Aerospace)          | [Automating Avionics Certification Activities using Formal Methods](#lucas-wagner-collins-aerospace) | 
 | 13.15 | Cesare Tinelli (University of Iowa)       | [Practical Generation of Proof Certificates for SMT-based Model Checkers](#cesare-tinelli-university-of-iowa) | 
 | 13.45 | Byron Cook / Mike Dodds                   | Closing Remarks | 
@@ -114,6 +114,14 @@ Isabelle/HOL, Lean4, and Coq, while also creating proof calculi for
 previously unsupported SMT-LIB theories in these settings. While the
 project is still ongoing, we will report on significant progress on
 all of these fronts.
+
+### Karthik Amrutesh (Amazon Web Services) 
+
+*Title:* How I learned to stop worrying and start applying automated reasoning
+
+*Abstract:* Automated reasoning has real world audit applications beyond the abstract. In this talk, we will share our experience of having applied automated reasoning principles to satisfy auditor expectations on a subset of PCI-DSS (Payment Card Industry – Data Security Standards) requirements. We will discuss our approach to the pilot initiative, lessons learned and the path forward.
+
+*Bio:* Karthik Amrutesh is a senior manager in Security Assurance at AWS. His team is focused on security and privacy audit and attestation activities in Europe, Africa, Latin America and Canada. Prior to joining AWS in October 2020, he had stints as the head of risk and information security at Betterment, a senior manager in the technology risk and assurance practice at Ernst & Young, and an information security advisor at Wipro Consulting.
 
 ### Sazzadur Rahaman (University of Arizona)
 
