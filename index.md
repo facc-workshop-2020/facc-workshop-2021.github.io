@@ -23,7 +23,7 @@ All times are [PDT](https://www.timeanddate.com/time/zones/pdt).
 | 9.15  | Richard Paige (McMaster University)      | [Process-Based Assurance of Critical Software-Intensive Systems using WF+](#richard-paige-mcmasters-university) | 
 | 9.45  |                                           | **Break, 30 mins** | 
 | 10.15 | Ray Richards (DARPA)                      | [Rethinking the evaluation of software for certification](#ray-richards-darpa) | 
-| 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| [Better SMT proofs for certifying compliance](haniel-barbosa-u-federal-de-minas-gerais) | 
+| 10.45 | Haniel Barbosa (U Federal de Minas Gerais)| [Better SMT proofs for certifying compliance](haniel-barbosa-u-federal-de-minas-gerais) - [Slides](https://homepages.dcc.ufmg.br/~hbarbosa/talks/facc2021.pdf) - [Demo](https://homepages.dcc.ufmg.br/~hbarbosa/talks/facc2021-demo.tar.gz) | 
 | 11.15 | Sazzadur Rahaman (University of Arizona)  | [Compliance Disparity Triangle: Impediments for effective compliance certification](#sazzadur-rahaman-university-of-arizona) | 
 | 11.45 |                                           | **Break, 30 mins** | 
 | 12.15 | Karthik Amrutesh (Amazon Web Services), in conversation with Byron Cook | [How I learned to stop worrying and start applying automated reasoning](#karthik-amrutesh-amazon-web-services) | 
